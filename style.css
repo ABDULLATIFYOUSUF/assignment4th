@@ -1,0 +1,159 @@
+* {
+    max-width: 100%;
+}
+.btn{
+    display: flex;
+    width: 100%;
+    background-color: black;
+    font-size: large;
+    color: white;
+    justify-content: space-around;
+    text-decoration: none;
+    color: white;
+    height: 40px;
+}
+img.apple{
+    height: 3ch;
+    color: black;
+}
+.container {
+    position: relative;
+    text-align: center;
+}
+.centered {
+    right: 45%;
+    position: absolute;
+    top:2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    line-height: 1em;
+}
+.anchor1 {
+    position: relative;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-decoration: none;
+    line-height: 2em;
+}
+.anchor1:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.centered1 {
+    right: 44%;
+        position: absolute;
+        top:2%;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: large;
+        color: white;
+        line-height: 1em;
+    }
+.class1 {
+        display: flex;
+    }
+.class2 {
+        bottom: 39%;
+        position: absolute;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: large;
+        color: red;
+        left: 18%;
+        line-height: 0em;
+    }
+    .class3 {
+        bottom: 40%;
+        position: absolute;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: large;
+        color: black;
+        left: 65%;
+        line-height: 0em;
+    }
+    .anchor2 {
+        position: relative;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: larger;
+        text-decoration: none;
+        line-height: 1em;
+    }
+    .anchor2:hover{
+        text-decoration: underline;
+        color: blue;
+    }
+    .class4 {
+        top: 355%;
+        position: absolute;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: large;
+        color: red;
+        right: 25%;
+        text-align: center;
+        right: 67%;
+        line-height: 0.3em;
+    }
+    .class5 {
+        top: 355%;
+        position: absolute;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: large;
+        color: red;
+        left: 25%;
+        text-align: center;
+        left: 68%;
+        line-height: 0.3em;
+    }
+
+    .anchor2 {
+        position: relative;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: larger;
+        text-decoration: none;
+    }
+    .anchor2:hover{
+        text-decoration: underline;
+        color: blue;
+    }
+    .class6 {
+        top: 445%;
+        position: absolute;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: large;
+        color: black;
+        right: 25%;
+        text-align: center;
+        right: 67%;
+        line-height: 0em;
+    }
+    .class7 {
+        top: 445%;
+        position: absolute;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: large;
+        color: black;
+        left: 25%;
+        text-align: center;
+        left: 68%;
+        break-after: right;
+        line-height: 0em;
+    }
+    .class8{
+        top: 540%;
+        position: absolute;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: lightgray;
+        width: 100%;
+        border-bottom-style: solid;
+        line-height: 2em;
+        
+    }
+    .class9{
+        justify-content: space-evenly;
+        display: flex;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: lightgray;
+        line-height: 2em;
+    }
